@@ -8,14 +8,29 @@ DEFAULT_CONFIG = {
         "dataflows/data_cache",
     ),
     # LLM settings
-    "llm_provider": "openai",
+    "llm_provider": "codex",
     "deep_think_llm": "gpt-5.4",
     "quick_think_llm": "gpt-5.4-mini",
-    "backend_url": "https://api.openai.com/v1",
+    "backend_url": None,
     # Provider-specific thinking configuration
     "google_thinking_level": None,      # "high", "minimal", etc.
     "openai_reasoning_effort": None,    # "medium", "high", "low"
     "anthropic_effort": None,           # "high", "medium", "low"
+    # Local Codex desktop/CLI provider configuration
+    "codex_path": None,                  # Defaults to CODEX_EXECUTABLE or Codex.app
+    "codex_timeout": 600,                # Seconds per Codex call
+    "codex_sandbox": "read-only",        # Keep Codex subprocesses from writing files
+    "codex_profile": None,               # Optional Codex CLI profile
+    "codex_ignore_user_config": False,   # Set True for a cleaner CLI invocation
+    "codex_disable_features": [          # Keep Codex acting like a plain LLM
+        "plugins",
+        "apps",
+        "browser_use",
+        "computer_use",
+        "image_generation",
+        "multi_agent",
+        "shell_tool",
+    ],
     # Output language for analyst reports and final decision
     # Internal agent debate stays in English for reasoning quality
     "output_language": "English",

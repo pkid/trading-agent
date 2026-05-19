@@ -153,6 +153,22 @@ class TradingAgentsGraph:
             if effort:
                 kwargs["effort"] = effort
 
+        elif provider == "codex":
+            for key in (
+                "codex_path",
+                "codex_timeout",
+                "codex_sandbox",
+                "codex_profile",
+                "codex_ephemeral",
+                "codex_ignore_rules",
+                "codex_ignore_user_config",
+                "codex_disable_features",
+                "codex_cwd",
+            ):
+                value = self.config.get(key)
+                if value is not None:
+                    kwargs[key] = value
+
         return kwargs
 
     def _create_tool_nodes(self) -> Dict[str, ToolNode]:

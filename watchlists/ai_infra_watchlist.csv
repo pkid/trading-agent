@@ -1,0 +1,62 @@
+trade_symbol,underlying_symbol,session_focus,notes
+GETTEX:CTO,COST,both,Costco Wholesale
+GETTEX:HY9H,HY9H,both,SK hynix
+GETTEX:F3M,TEM,both,Tempus AI
+GETTEX:TSFA,TSM,both,Taiwan Semiconductor Manufacturing
+GETTEX:VSA,VSA,both,Valeo
+GETTEX:6B0,SOFI,both,SoFi Technologies
+GETTEX:AMD,AMD,both,AMD
+GETTEX:ASME,ASML,both,ASML Holding
+GETTEX:FB2A,META,both,Meta Platforms
+GETTEX:ABEA,GOOGL,both,Alphabet
+GETTEX:AMZ,AMZN,both,Amazon.com
+GETTEX:MSF,MSFT,both,Microsoft
+GETTEX:9MW,MRVL,both,Marvell Technology
+GETTEX:MTE,MU,both,Micron Technology
+GETTEX:NFC,NFLX,both,Netflix
+GETTEX:NVD,NVDA,both,NVIDIA
+GETTEX:PTX,PLTR,both,Palantir
+GETTEX:TL0,TSLA,both,Tesla
+GETTEX:1YD,AVGO,both,Broadcom
+GETTEX:MS51,SMCI,both,Super Micro Computer
+GETTEX:0V6,VST,both,Vistra
+GETTEX:3EC,ETN,both,Eaton
+GETTEX:NRA,NRG,both,NRG Energy
+GETTEX:HUEC,HUBB,both,Hubbell
+NYSE:NVT,NVT,primary,nVent Electric
+GETTEX:49V,VRT,both,Vertiv
+GETTEX:TEY,TER,both,Teradyne
+GETTEX:QAA,PWR,both,Quanta Services
+GETTEX:Y5C,GEV,both,GE Vernova
+GETTEX:E7S,CEG,both,Constellation Energy
+GETTEX:MMF,MOD,both,Modine Manufacturing
+GETTEX:AMK,AMKR,both,Amkor Technology
+GETTEX:PW2,POWL,both,Powell Industries
+GETTEX:KU1,KLIC,both,Kulicke & Soffa
+GETTEX:G84,GNRC,both,Generac
+GETTEX:CU3,COHU,both,Cohu
+GETTEX:1170,ANET,both,Arista Networks
+GETTEX:12DA,DELL,both,Dell Technologies
+GETTEX:AP2,AMAT,both,Applied Materials
+GETTEX:LAR0,LRCX,both,Lam Research
+GETTEX:ORC,ORCL,both,Oracle
+GETTEX:QCI,QCOM,both,Qualcomm
+GETTEX:1MA,MTSI,both,MACOM Technology Solutions
+GETTEX:VEO,VECO,both,Veeco Instruments
+GETTEX:AOY,AOSL,both,Alpha and Omega Semiconductor
+GETTEX:INL,INTC,both,Intel
+GETTEX:SM2,SMTC,both,Semtech
+GETTEX:JMX,MXL,both,MaxLinear
+GETTEX:A59,AAOI,both,Applied Optoelectronics
+GETTEX:RI4A,POET,both,POET Technologies
+GETTEX:O9T,ARM,both,Arm Holdings
+GETTEX:AUX,ASX,both,ASX Limited
+GETTEX:SYP,SNPS,both,Synopsys
+GETTEX:CDS,CDNS,both,Cadence Design Systems
+GETTEX:BS81,BSY,both,Bentley Systems
+GETTEX:NQG,MPWR,both,Monolithic Power Systems
+GETTEX:847,STX,both,Seagate Technology
+GETTEX:WDC,WDC,both,Western Digital
+GETTEX:LU2,LITE,both,Lumentum Holdings
+GETTEX:SRAG,SRAG,primary,Samara Asset Group
+XETR:RHM,RHM,primary,Rheinmetall

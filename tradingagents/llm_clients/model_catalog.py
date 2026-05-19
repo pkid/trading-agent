@@ -65,6 +65,18 @@ MODEL_OPTIONS: ProviderModeOptions = {
     },
     # OpenRouter models are fetched dynamically at CLI runtime.
     # No static entries needed; any model ID is accepted by the validator.
+    "codex": {
+        "quick": [
+            ("Codex app default model", "codex-default"),
+            ("GPT-5.4 Mini through Codex", "gpt-5.4-mini"),
+            ("GPT-5.4 through Codex", "gpt-5.4"),
+        ],
+        "deep": [
+            ("Codex app default model", "codex-default"),
+            ("GPT-5.4 through Codex", "gpt-5.4"),
+            ("GPT-5.4 Mini through Codex", "gpt-5.4-mini"),
+        ],
+    },
     "ollama": {
         "quick": [
             ("Qwen3:latest (8B, local)", "qwen3:latest"),
