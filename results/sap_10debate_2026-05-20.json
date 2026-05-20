@@ -1,0 +1,16 @@
+[
+  {
+    "trade_symbol": "XETR:SAP",
+    "underlying_symbol": "SAP.DE",
+    "analysis_symbol": "SAP.DE",
+    "session_focus": "both",
+    "company": "SAP SE",
+    "analysis_date": "2026-05-20",
+    "rating": "BUY",
+    "action": "BUY",
+    "score": 2,
+    "log_path": "results_debate_10/SAP.DE/TradingAgentsStrategy_logs/full_states_log_2026-05-20.json",
+    "status": "ran",
+    "error": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "trade_symbol": "GETTEX:MSF",
+    "underlying_symbol": "MSFT",
+    "analysis_symbol": "MSFT",
+    "session_focus": "both",
+    "company": "Microsoft",
+    "analysis_date": "2026-05-20",
+    "rating": "HOLD",
+    "action": "HOLD",
+    "score": 0,
+    "log_path": "results_debate_10/MSFT/TradingAgentsStrategy_logs/full_states_log_2026-05-20.json",
+    "status": "ran",
+    "error": ""
+  }
+]

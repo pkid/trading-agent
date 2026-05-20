@@ -1,0 +1,45 @@
+trade_symbol,underlying_symbol,session_focus,notes,trigger_reason
+GETTEX:INL,INTC,triggered,Intel,1D MOVE -4.3%; 5D MOVE -14.2%
+GETTEX:LU2,LITE,triggered,Lumentum Holdings,1D MOVE -3.5%; 5D MOVE -14.0%
+GETTEX:MMF,MOD,triggered,Modine Manufacturing,1D MOVE -4.1%; 5D MOVE -14.2%
+GETTEX:NQG,MPWR,triggered,Monolithic Power Systems,1D MOVE -3.7%; 5D MOVE -10.5%
+GETTEX:QCI,QCOM,triggered,Qualcomm,1D MOVE -5.1%; 5D MOVE -8.2%
+GETTEX:TL0,TSLA,triggered,Tesla,1D MOVE -3.2%; 5D MOVE -8.5%
+GETTEX:VEO,VECO,triggered,Veeco Instruments,1D MOVE -6.1%; 5D MOVE -15.0%
+GETTEX:49V,VRT,triggered,Vertiv,1D MOVE -7.1%; 5D MOVE -14.0%
+GETTEX:AMD,AMD,triggered,AMD,1D MOVE -6.0%; 5D MOVE -11.7%
+GETTEX:AMK,AMKR,triggered,Amkor Technology,1D MOVE -4.6%; 5D MOVE -14.2%
+GETTEX:AP2,AMAT,triggered,Applied Materials,1D MOVE -3.3%; 5D MOVE -7.3%
+GETTEX:A59,AAOI,triggered,Applied Optoelectronics,1D MOVE -5.8%; 5D MOVE -13.3%
+GETTEX:CU3,COHU,triggered,Cohu,1D MOVE -4.7%; 5D MOVE -14.6%
+GETTEX:3EC,ETN,triggered,Eaton,1D MOVE -3.4%; 5D MOVE -8.1%
+GETTEX:G84,GNRC,triggered,Generac,1D MOVE -4.5%; 5D MOVE -10.4%
+GETTEX:LAR0,LRCX,triggered,Lam Research,1D MOVE -4.3%; 5D MOVE -8.0%
+GETTEX:RI4A,POET,triggered,POET Technologies,1D MOVE -15.7%; 5D MOVE -12.8%
+GETTEX:PW2,POWL,triggered,Powell Industries,1D MOVE -5.5%; 5D MOVE -18.2%
+GETTEX:QAA,PWR,triggered,Quanta Services,1D MOVE -3.9%; 5D MOVE -9.3%
+GETTEX:847,STX,triggered,Seagate Technology,1D MOVE -5.5%; 5D MOVE -13.4%
+GETTEX:MS51,SMCI,triggered,Super Micro Computer,1D MOVE -3.5%; 5D MOVE -9.2%
+GETTEX:WDC,WDC,triggered,Western Digital,1D MOVE -4.6%; 5D MOVE -10.5%
+NYSE:NVT,NVT,triggered,nVent Electric,1D MOVE -4.7%; 5D MOVE -10.3%
+GETTEX:0V6,VST,triggered,Vistra,5D MOVE -9.2%; RSI LOW 29
+GETTEX:1MA,MTSI,triggered,MACOM Technology Solutions,1D MOVE -3.7%; RSI HIGH 73
+GETTEX:SM2,SMTC,triggered,Semtech,1D MOVE -4.3%; RSI HIGH 71
+GETTEX:NRA,NRG,triggered,NRG Energy,5D MOVE -11.0%; RSI LOW 26
+GETTEX:VSA,VSA.MU,triggered,Valeo,5D MOVE +7.8%; RSI HIGH 81
+GETTEX:AOY,AOSL,triggered,Alpha and Omega Semiconductor,1D MOVE -4.7%
+GETTEX:HY9H,HY9H.MU,triggered,SK hynix,1D MOVE -4.0%
+GETTEX:MTE,MU,triggered,Micron Technology,5D MOVE -13.6%
+GETTEX:TEY,TER,triggered,Teradyne,5D MOVE -12.8%
+GETTEX:1YD,AVGO,triggered,Broadcom,1D MOVE -3.1%
+GETTEX:12DA,DELL,triggered,Dell Technologies,1D MOVE -3.6%
+GETTEX:KU1,KLIC,triggered,Kulicke & Soffa,1D MOVE -4.6%
+XETR:RHM,RHM.DE,triggered,Rheinmetall,1D MOVE +3.8%
+GETTEX:6B0,SOFI,triggered,SoFi Technologies,1D MOVE -3.8%
+GETTEX:E7S,CEG,triggered,Constellation Energy,5D MOVE -12.3%
+GETTEX:Y5C,GEV,triggered,GE Vernova,5D MOVE -7.5%
+GETTEX:1170,ANET,triggered,Arista Networks,RSI LOW 26
+GETTEX:HUEC,HUBB,triggered,Hubbell,RSI LOW 8
+GETTEX:ABEA,GOOGL,triggered,Alphabet,RSI HIGH 71
+GETTEX:CTO,COST,triggered,Costco Wholesale,RSI HIGH 79
+GETTEX:FB2A,META,triggered,Meta Platforms,RSI LOW 26

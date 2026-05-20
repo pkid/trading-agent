@@ -1,0 +1,16 @@
+[
+  {
+    "trade_symbol": "GETTEX:1170",
+    "underlying_symbol": "ANET",
+    "analysis_symbol": "ANET",
+    "session_focus": "both",
+    "company": "Arista Networks",
+    "analysis_date": "2026-05-20",
+    "rating": "BUY",
+    "action": "BUY",
+    "score": 2,
+    "log_path": "results_debate_10/ANET/TradingAgentsStrategy_logs/full_states_log_2026-05-20.json",
+    "status": "ran",
+    "error": ""
+  }
+]

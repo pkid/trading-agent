@@ -1,0 +1,16 @@
+[
+  {
+    "trade_symbol": "GETTEX:AMD",
+    "underlying_symbol": "AMD",
+    "analysis_symbol": "AMD",
+    "session_focus": "both",
+    "company": "AMD",
+    "analysis_date": "2026-05-19",
+    "rating": "HOLD",
+    "action": "HOLD",
+    "score": 0,
+    "log_path": "results/AMD/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json",
+    "status": "ran",
+    "error": ""
+  }
+]

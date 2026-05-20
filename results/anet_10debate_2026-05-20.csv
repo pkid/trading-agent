@@ -1,0 +1,2 @@
+trade_symbol,underlying_symbol,analysis_symbol,session_focus,company,analysis_date,rating,action,score,log_path,status,error
+GETTEX:1170,ANET,ANET,both,Arista Networks,2026-05-20,BUY,BUY,2,results_debate_10/ANET/TradingAgentsStrategy_logs/full_states_log_2026-05-20.json,ran,

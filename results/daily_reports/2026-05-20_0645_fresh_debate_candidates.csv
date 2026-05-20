@@ -1,0 +1,62 @@
+trade_symbol,underlying_symbol,session_focus,notes,trigger_reason
+GETTEX:0V6,VST,triggered,Vistra,NO PRICE DATA
+GETTEX:AMD,AMD,triggered,AMD,NO PRICE DATA
+GETTEX:AOY,AOSL,triggered,Alpha and Omega Semiconductor,NO PRICE DATA
+GETTEX:1170,ANET,triggered,Arista Networks,NO PRICE DATA
+GETTEX:HUEC,HUBB,triggered,Hubbell,NO PRICE DATA
+GETTEX:INL,INTC,triggered,Intel,NO PRICE DATA
+GETTEX:LU2,LITE,triggered,Lumentum Holdings,NO PRICE DATA
+GETTEX:1MA,MTSI,triggered,MACOM Technology Solutions,NO PRICE DATA
+GETTEX:MTE,MU,triggered,Micron Technology,NO PRICE DATA
+GETTEX:MMF,MOD,triggered,Modine Manufacturing,NO PRICE DATA
+GETTEX:NQG,MPWR,triggered,Monolithic Power Systems,NO PRICE DATA
+GETTEX:ORC,ORCL,triggered,Oracle,NO PRICE DATA
+GETTEX:QCI,QCOM,triggered,Qualcomm,NO PRICE DATA
+GETTEX:HY9H,HY9H.MU,triggered,SK hynix,NO PRICE DATA
+GETTEX:SRAG,SRAG.MU,triggered,Samara Asset Group,NO PRICE DATA
+GETTEX:SYP,SNPS,triggered,Synopsys,NO PRICE DATA
+GETTEX:TEY,TER,triggered,Teradyne,NO PRICE DATA
+GETTEX:TL0,TSLA,triggered,Tesla,NO PRICE DATA
+GETTEX:VEO,VECO,triggered,Veeco Instruments,NO PRICE DATA
+GETTEX:49V,VRT,triggered,Vertiv,NO PRICE DATA
+GETTEX:ASME,ASML,triggered,ASML Holding,NO PRICE DATA
+GETTEX:AUX,AUX.MU,triggered,ASX Limited,NO PRICE DATA
+GETTEX:ABEA,GOOGL,triggered,Alphabet,NO PRICE DATA
+GETTEX:AMZ,AMZN,triggered,Amazon.com,NO PRICE DATA
+GETTEX:AMK,AMKR,triggered,Amkor Technology,NO PRICE DATA
+GETTEX:AP2,AMAT,triggered,Applied Materials,NO PRICE DATA
+GETTEX:A59,AAOI,triggered,Applied Optoelectronics,NO PRICE DATA
+GETTEX:O9T,ARM,triggered,Arm Holdings,NO PRICE DATA
+GETTEX:BS81,BSY,triggered,Bentley Systems,NO PRICE DATA
+GETTEX:1YD,AVGO,triggered,Broadcom,NO PRICE DATA
+GETTEX:CDS,CDNS,triggered,Cadence Design Systems,NO PRICE DATA
+GETTEX:CU3,COHU,triggered,Cohu,NO PRICE DATA
+GETTEX:E7S,CEG,triggered,Constellation Energy,NO PRICE DATA
+GETTEX:CTO,COST,triggered,Costco Wholesale,NO PRICE DATA
+GETTEX:12DA,DELL,triggered,Dell Technologies,NO PRICE DATA
+GETTEX:3EC,ETN,triggered,Eaton,NO PRICE DATA
+GETTEX:Y5C,GEV,triggered,GE Vernova,NO PRICE DATA
+GETTEX:G84,GNRC,triggered,Generac,NO PRICE DATA
+GETTEX:KU1,KLIC,triggered,Kulicke & Soffa,NO PRICE DATA
+GETTEX:LAR0,LRCX,triggered,Lam Research,NO PRICE DATA
+GETTEX:9MW,MRVL,triggered,Marvell Technology,NO PRICE DATA
+GETTEX:JMX,MXL,triggered,MaxLinear,NO PRICE DATA
+GETTEX:FB2A,META,triggered,Meta Platforms,NO PRICE DATA
+GETTEX:MSF,MSFT,triggered,Microsoft,NO PRICE DATA
+GETTEX:NRA,NRG,triggered,NRG Energy,NO PRICE DATA
+GETTEX:NVD,NVDA,triggered,NVIDIA,NO PRICE DATA
+GETTEX:NFC,NFLX,triggered,Netflix,NO PRICE DATA
+GETTEX:RI4A,POET,triggered,POET Technologies,NO PRICE DATA
+GETTEX:PTX,PLTR,triggered,Palantir,NO PRICE DATA
+GETTEX:PW2,POWL,triggered,Powell Industries,NO PRICE DATA
+GETTEX:QAA,PWR,triggered,Quanta Services,NO PRICE DATA
+XETR:RHM,RHM.DE,triggered,Rheinmetall,NO PRICE DATA
+GETTEX:847,STX,triggered,Seagate Technology,NO PRICE DATA
+GETTEX:SM2,SMTC,triggered,Semtech,NO PRICE DATA
+GETTEX:6B0,SOFI,triggered,SoFi Technologies,NO PRICE DATA
+GETTEX:MS51,SMCI,triggered,Super Micro Computer,NO PRICE DATA
+GETTEX:TSFA,TSM,triggered,Taiwan Semiconductor Manufacturing,NO PRICE DATA
+GETTEX:F3M,TEM,triggered,Tempus AI,NO PRICE DATA
+GETTEX:VSA,VSA.MU,triggered,Valeo,NO PRICE DATA
+GETTEX:WDC,WDC,triggered,Western Digital,NO PRICE DATA
+NYSE:NVT,NVT,triggered,nVent Electric,NO PRICE DATA

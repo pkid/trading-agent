@@ -1,0 +1,16 @@
+[
+  {
+    "trade_symbol": "GETTEX:PTX",
+    "underlying_symbol": "PLTR",
+    "analysis_symbol": "PLTR",
+    "session_focus": "both",
+    "company": "Palantir",
+    "analysis_date": "2026-05-20",
+    "rating": "HOLD",
+    "action": "HOLD",
+    "score": 0,
+    "log_path": "results_debate_10/PLTR/TradingAgentsStrategy_logs/full_states_log_2026-05-20.json",
+    "status": "ran",
+    "error": ""
+  }
+]

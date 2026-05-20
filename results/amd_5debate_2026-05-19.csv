@@ -1,0 +1,2 @@
+trade_symbol,underlying_symbol,analysis_symbol,session_focus,company,analysis_date,rating,action,score,log_path,status,error
+GETTEX:AMD,AMD,AMD,both,AMD,2026-05-19,HOLD,HOLD,0,results/AMD/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,ran,

@@ -1,0 +1,62 @@
+company,trade_symbol,analysis_symbol,baseline_rating,baseline_date,latest_price_date,close,pct_1d,pct_5d,pct_20d,rsi_14,volume_ratio_20d,vs_sma_50,vs_sma_200,triggers,priority,log_path,error
+Costco Wholesale,GETTEX:CTO,COST,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/COST/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+SK hynix,GETTEX:HY9H,HY9H.MU,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/HY9H.MU/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Tempus AI,GETTEX:F3M,TEM,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/TEM/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Taiwan Semiconductor Manufacturing,GETTEX:TSFA,TSM,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/TSM/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Valeo,GETTEX:VSA,VSA.MU,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/VSA.MU/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+SoFi Technologies,GETTEX:6B0,SOFI,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/SOFI/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+AMD,GETTEX:AMD,AMD,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/AMD/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+ASML Holding,GETTEX:ASME,ASML,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/ASML/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Meta Platforms,GETTEX:FB2A,META,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/META/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Alphabet,GETTEX:ABEA,GOOGL,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/GOOGL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Amazon.com,GETTEX:AMZ,AMZN,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/AMZN/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Microsoft,GETTEX:MSF,MSFT,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/MSFT/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Marvell Technology,GETTEX:9MW,MRVL,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/MRVL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Micron Technology,GETTEX:MTE,MU,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/MU/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Netflix,GETTEX:NFC,NFLX,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/NFLX/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+NVIDIA,GETTEX:NVD,NVDA,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/NVDA/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Palantir,GETTEX:PTX,PLTR,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/PLTR/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Tesla,GETTEX:TL0,TSLA,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/TSLA/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Broadcom,GETTEX:1YD,AVGO,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/AVGO/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Super Micro Computer,GETTEX:MS51,SMCI,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/SMCI/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Vistra,GETTEX:0V6,VST,SELL,2026-05-19,,,,,,,,,,NO PRICE DATA,98,results/VST/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Eaton,GETTEX:3EC,ETN,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/ETN/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+NRG Energy,GETTEX:NRA,NRG,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/NRG/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Hubbell,GETTEX:HUEC,HUBB,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/HUBB/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+nVent Electric,NYSE:NVT,NVT,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/NVT/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Vertiv,GETTEX:49V,VRT,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/VRT/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Teradyne,GETTEX:TEY,TER,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/TER/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Quanta Services,GETTEX:QAA,PWR,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/PWR/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+GE Vernova,GETTEX:Y5C,GEV,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/GEV/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Constellation Energy,GETTEX:E7S,CEG,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/CEG/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Modine Manufacturing,GETTEX:MMF,MOD,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/MOD/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Amkor Technology,GETTEX:AMK,AMKR,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/AMKR/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Powell Industries,GETTEX:PW2,POWL,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/POWL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Kulicke & Soffa,GETTEX:KU1,KLIC,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/KLIC/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Generac,GETTEX:G84,GNRC,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/GNRC/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Cohu,GETTEX:CU3,COHU,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/COHU/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Arista Networks,GETTEX:1170,ANET,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/ANET/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Dell Technologies,GETTEX:12DA,DELL,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/DELL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Applied Materials,GETTEX:AP2,AMAT,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/AMAT/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Lam Research,GETTEX:LAR0,LRCX,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/LRCX/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Oracle,GETTEX:ORC,ORCL,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/ORCL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Qualcomm,GETTEX:QCI,QCOM,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/QCOM/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+MACOM Technology Solutions,GETTEX:1MA,MTSI,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/MTSI/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Veeco Instruments,GETTEX:VEO,VECO,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/VECO/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Alpha and Omega Semiconductor,GETTEX:AOY,AOSL,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/AOSL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Intel,GETTEX:INL,INTC,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/INTC/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Semtech,GETTEX:SM2,SMTC,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/SMTC/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+MaxLinear,GETTEX:JMX,MXL,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/MXL/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Applied Optoelectronics,GETTEX:A59,AAOI,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/AAOI/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+POET Technologies,GETTEX:RI4A,POET,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/POET/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Arm Holdings,GETTEX:O9T,ARM,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/ARM/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+ASX Limited,GETTEX:AUX,AUX.MU,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/AUX.MU/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Synopsys,GETTEX:SYP,SNPS,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/SNPS/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Cadence Design Systems,GETTEX:CDS,CDNS,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/CDNS/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Bentley Systems,GETTEX:BS81,BSY,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/BSY/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Monolithic Power Systems,GETTEX:NQG,MPWR,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/MPWR/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Seagate Technology,GETTEX:847,STX,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/STX/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Western Digital,GETTEX:WDC,WDC,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/WDC/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Lumentum Holdings,GETTEX:LU2,LITE,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/LITE/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Samara Asset Group,GETTEX:SRAG,SRAG.MU,HOLD,2026-05-19,,,,,,,,,,NO PRICE DATA,94,results/SRAG.MU/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned
+Rheinmetall,XETR:RHM,RHM.DE,BUY,2026-05-19,,,,,,,,,,NO PRICE DATA,90,results/RHM.DE/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json,No yfinance rows returned

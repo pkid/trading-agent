@@ -1,0 +1,16 @@
+[
+  {
+    "trade_symbol": "GETTEX:ADBE",
+    "underlying_symbol": "ADBE",
+    "analysis_symbol": "ADBE",
+    "session_focus": "both",
+    "company": "Adobe",
+    "analysis_date": "2026-05-19",
+    "rating": "BUY",
+    "action": "BUY",
+    "score": 2,
+    "log_path": "results_debate_10/ADBE/TradingAgentsStrategy_logs/full_states_log_2026-05-19.json",
+    "status": "ran",
+    "error": ""
+  }
+]

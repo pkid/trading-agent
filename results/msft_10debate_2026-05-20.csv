@@ -1,0 +1,2 @@
+trade_symbol,underlying_symbol,analysis_symbol,session_focus,company,analysis_date,rating,action,score,log_path,status,error
+GETTEX:MSF,MSFT,MSFT,both,Microsoft,2026-05-20,HOLD,HOLD,0,results_debate_10/MSFT/TradingAgentsStrategy_logs/full_states_log_2026-05-20.json,ran,
