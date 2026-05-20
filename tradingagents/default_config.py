@@ -35,9 +35,12 @@ DEFAULT_CONFIG = {
     # Internal agent debate stays in English for reasoning quality
     "output_language": "English",
     # Debate and discussion settings
-    "max_debate_rounds": 1,
-    "max_risk_discuss_rounds": 1,
-    "max_recur_limit": 100,
+    # Defaults favor a real deliberation over a quick summary:
+    # - investment debate: 10 full bull/bear rounds
+    # - risk debate: 10 full aggressive/conservative/neutral rounds
+    "max_debate_rounds": 10,
+    "max_risk_discuss_rounds": 10,
+    "max_recur_limit": 200,
     # Data vendor configuration
     # Category-level configuration (default for all tools in category)
     "data_vendors": {

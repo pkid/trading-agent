@@ -195,7 +195,10 @@ _, decision = ta.propagate("NVDA", "2026-01-15")
 print(decision)
 ```
 
-You can also adjust the default configuration to set your own choice of LLMs, debate rounds, etc.
+By default, TradingAgents now runs a real 10-round deliberation:
+10 full bull/bear investment debate rounds followed by 10 full
+aggressive/conservative/neutral risk debate rounds. You can still adjust the
+configuration to set your own choice of LLMs, debate rounds, etc.
 
 ```python
 from tradingagents.graph.trading_graph import TradingAgentsGraph
@@ -205,7 +208,8 @@ config = DEFAULT_CONFIG.copy()
 config["llm_provider"] = "codex"         # codex, openai, google, anthropic, xai, openrouter, ollama
 config["deep_think_llm"] = "gpt-5.4"     # Model for complex reasoning
 config["quick_think_llm"] = "gpt-5.4-mini" # Model for quick tasks
-config["max_debate_rounds"] = 2
+config["max_debate_rounds"] = 10         # 10 full bull/bear investment rounds
+config["max_risk_discuss_rounds"] = 10   # 10 full risk-management rounds
 
 ta = TradingAgentsGraph(debug=True, config=config)
 _, decision = ta.propagate("NVDA", "2026-01-15")

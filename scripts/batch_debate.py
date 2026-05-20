@@ -284,7 +284,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-prefix", default=None)
     parser.add_argument(
         "--existing-roots",
-        default="./results,./results_debate,./results_debate_5",
+        default="./results,./results_debate,./results_debate_5,./results_debate_10",
         help="Comma-separated result directories to search before running.",
     )
     parser.add_argument("--symbol-map", default=None, help="CSV or JSON symbol override map")
@@ -294,8 +294,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--llm-provider", default=DEFAULT_CONFIG["llm_provider"])
     parser.add_argument("--quick-llm", default=DEFAULT_CONFIG["quick_think_llm"])
     parser.add_argument("--deep-llm", default=DEFAULT_CONFIG["deep_think_llm"])
-    parser.add_argument("--debate-rounds", type=int, default=1)
-    parser.add_argument("--risk-rounds", type=int, default=1)
+    parser.add_argument(
+        "--debate-rounds",
+        type=int,
+        default=DEFAULT_CONFIG["max_debate_rounds"],
+        help="Full bull/bear investment debate rounds to run.",
+    )
+    parser.add_argument(
+        "--risk-rounds",
+        type=int,
+        default=DEFAULT_CONFIG["max_risk_discuss_rounds"],
+        help="Full aggressive/conservative/neutral risk debate rounds to run.",
+    )
     parser.add_argument("--output-language", default="English")
     parser.add_argument("--analysts", default="market,social,news,fundamentals")
     parser.add_argument("--stock-vendor", default="yfinance")
