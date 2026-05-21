@@ -67,11 +67,13 @@ MODEL_OPTIONS: ProviderModeOptions = {
     # No static entries needed; any model ID is accepted by the validator.
     "codex": {
         "quick": [
+            ("GPT-5.5 through Codex - Frontier, xhigh-capable", "gpt-5.5"),
             ("Codex app default model", "codex-default"),
             ("GPT-5.4 Mini through Codex", "gpt-5.4-mini"),
             ("GPT-5.4 through Codex", "gpt-5.4"),
         ],
         "deep": [
+            ("GPT-5.5 through Codex - Frontier, xhigh-capable", "gpt-5.5"),
             ("Codex app default model", "codex-default"),
             ("GPT-5.4 through Codex", "gpt-5.4"),
             ("GPT-5.4 Mini through Codex", "gpt-5.4-mini"),

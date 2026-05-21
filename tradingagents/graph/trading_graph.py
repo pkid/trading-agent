@@ -161,6 +161,7 @@ class TradingAgentsGraph:
                 "codex_timeout",
                 "codex_sandbox",
                 "codex_profile",
+                "codex_model_reasoning_effort",
                 "codex_ephemeral",
                 "codex_ignore_rules",
                 "codex_ignore_user_config",

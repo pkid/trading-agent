@@ -209,6 +209,7 @@ def run_analysis(row: WatchlistRow, args: argparse.Namespace) -> DebateSummary:
     config["llm_provider"] = args.llm_provider
     config["quick_think_llm"] = args.quick_llm
     config["deep_think_llm"] = args.deep_llm
+    config["codex_model_reasoning_effort"] = args.codex_reasoning_effort
     config["max_debate_rounds"] = args.debate_rounds
     config["max_risk_discuss_rounds"] = args.risk_rounds
     config["output_language"] = args.output_language
@@ -294,6 +295,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--llm-provider", default=DEFAULT_CONFIG["llm_provider"])
     parser.add_argument("--quick-llm", default=DEFAULT_CONFIG["quick_think_llm"])
     parser.add_argument("--deep-llm", default=DEFAULT_CONFIG["deep_think_llm"])
+    parser.add_argument(
+        "--codex-reasoning-effort",
+        default=DEFAULT_CONFIG.get("codex_model_reasoning_effort"),
+        help="Codex model_reasoning_effort config value, e.g. xhigh.",
+    )
     parser.add_argument(
         "--debate-rounds",
         type=int,

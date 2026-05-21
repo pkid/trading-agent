@@ -9,8 +9,8 @@ DEFAULT_CONFIG = {
     ),
     # LLM settings
     "llm_provider": "codex",
-    "deep_think_llm": "gpt-5.4",
-    "quick_think_llm": "gpt-5.4-mini",
+    "deep_think_llm": "gpt-5.5",
+    "quick_think_llm": "gpt-5.5",
     "backend_url": None,
     # Provider-specific thinking configuration
     "google_thinking_level": None,      # "high", "minimal", etc.
@@ -21,6 +21,7 @@ DEFAULT_CONFIG = {
     "codex_timeout": 600,                # Seconds per Codex call
     "codex_sandbox": "read-only",        # Keep Codex subprocesses from writing files
     "codex_profile": None,               # Optional Codex CLI profile
+    "codex_model_reasoning_effort": "xhigh",
     "codex_ignore_user_config": False,   # Set True for a cleaner CLI invocation
     "codex_disable_features": [          # Keep Codex acting like a plain LLM
         "plugins",

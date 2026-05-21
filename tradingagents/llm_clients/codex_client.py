@@ -69,6 +69,7 @@ class CodexChatModel(BaseChatModel):
     timeout: int = 600
     sandbox: str = "read-only"
     profile: Optional[str] = None
+    model_reasoning_effort: Optional[str] = None
     ephemeral: bool = True
     ignore_rules: bool = True
     ignore_user_config: bool = False
@@ -258,6 +259,11 @@ class CodexChatModel(BaseChatModel):
                 cmd.append("--ignore-user-config")
             if self.profile:
                 cmd.extend(["--profile", self.profile])
+            if self.model_reasoning_effort:
+                cmd.extend([
+                    "-c",
+                    f'model_reasoning_effort="{self.model_reasoning_effort}"',
+                ])
             for feature in self.disabled_features:
                 cmd.extend(["--disable", feature])
             if self.cwd:
@@ -316,6 +322,7 @@ class CodexClient(BaseLLMClient):
             timeout=self.kwargs.get("codex_timeout", 600),
             sandbox=self.kwargs.get("codex_sandbox", "read-only"),
             profile=self.kwargs.get("codex_profile"),
+            model_reasoning_effort=self.kwargs.get("codex_model_reasoning_effort"),
             ephemeral=self.kwargs.get("codex_ephemeral", True),
             ignore_rules=self.kwargs.get("codex_ignore_rules", True),
             ignore_user_config=self.kwargs.get("codex_ignore_user_config", False),

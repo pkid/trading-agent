@@ -11,6 +11,12 @@ class DebateDefaultTests(unittest.TestCase):
         self.assertEqual(DEFAULT_CONFIG["max_risk_discuss_rounds"], 10)
         self.assertGreaterEqual(DEFAULT_CONFIG["max_recur_limit"], 200)
 
+    def test_project_defaults_use_gpt55_xhigh_for_codex(self):
+        self.assertEqual(DEFAULT_CONFIG["llm_provider"], "codex")
+        self.assertEqual(DEFAULT_CONFIG["quick_think_llm"], "gpt-5.5")
+        self.assertEqual(DEFAULT_CONFIG["deep_think_llm"], "gpt-5.5")
+        self.assertEqual(DEFAULT_CONFIG["codex_model_reasoning_effort"], "xhigh")
+
     def test_conditional_logic_defaults_complete_full_investment_rounds(self):
         logic = ConditionalLogic()
 
